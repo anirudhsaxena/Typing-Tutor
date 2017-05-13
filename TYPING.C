@@ -111,15 +111,6 @@ outtextxy(145,425,"TYPING TUTOR V1.1 COPYRIGHT(c) ANIRUDH SAXENA");
 		delay(500);
 		outtextxy(75,25,">>Learn to type efficiently within few days<<");
 		delay(7000);
-/*
-for(i=0;i<10;i++){
-
-sound(550);
-delay(1000);
-nosound();
-sound(250);
-delay(500);
-nosound();} */
 		outtextxy(75,35,"_____________________________________________________________");
 		outtextxy(75,45,"Select an option to proceed...");
 		outtextxy(75,55,"<<<MENU>>>");
